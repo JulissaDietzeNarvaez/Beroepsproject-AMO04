@@ -1,0 +1,14 @@
+body {          /* Body lay out */
+    background-color: #CAD7E2;
+}
+
+table, th, td {     /* Table, th, td lay out */
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  th, td {      /* th and td lay out */
+    padding: 10px;
+    text-align: left;    
+  }
+
